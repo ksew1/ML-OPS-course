@@ -1,1 +1,1 @@
-# ML-OPS-course
+# ML OPS course
